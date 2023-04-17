@@ -1,0 +1,82 @@
+body{
+   background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position:right;
+    color:rgb(255, 255, 255);
+    font-size:x-large;
+    background-color: #0c0c0c;
+    }
+table{
+    border:"10px";
+    border-color: blanchedalmond;
+    color: rgb(25, 177, 43);
+    padding:5px;
+    font-size: xx-large;
+    background-color: #0c0c0c;
+}
+p{
+    color:red;
+}
+input,button{
+      width:20%;
+      border : 2px solid #0c0c0c; 
+      padding : 3px;
+    }
+    #b{
+        padding:100px;
+    }
+    h1,h2,h3{
+        color:rgb(19, 194, 66)
+    }
+    #point{
+        color:rgb(254, 255, 254);
+    }
+   #ab{
+        color:rgb(28, 189, 31)
+    }
+    #no{
+        color:rgb(251, 83, 201)
+    }
+    #point:hover{
+        color:rgb(169, 140, 25);
+        transition: all 0.2s ease-in-out;
+    }
+
+  #p{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  nav a:hover {
+    background-color: lightblue;
+    color: black;
+    border-radius: 9px;
+  }
+ 
+
+  
+  
+
+  
+  
+  
+ 
+
+    
